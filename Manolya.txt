@@ -1,0 +1,5 @@
+git clone <repo-link>
+// make changes 
+git add .
+git commit -m "adding Manolya.txt"
+git push
