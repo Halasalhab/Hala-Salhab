@@ -1,5 +1,5 @@
 Commands used:
-git clone <repo link>
+git clone https://github.com/Halasalhab/Hala-Salhab
 git add .
 git commit -m "first commit"
 git push
