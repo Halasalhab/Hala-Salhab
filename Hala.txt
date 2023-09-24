@@ -1,1 +1,5 @@
-
+Commands used:
+git clone <repo link>
+git add .
+git commit -m "first commit"
+git push
