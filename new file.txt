@@ -1,1 +1,1 @@
-editing new file.txt
+editing new file to make conflict
