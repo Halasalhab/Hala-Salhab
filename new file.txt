@@ -1,1 +1,1 @@
-now we are both editing the same file, this will create a conflict
+conflict resolved
